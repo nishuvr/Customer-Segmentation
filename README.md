@@ -5,6 +5,8 @@ Contents :
 * Customer_Segmentation.ipynb - main file
 * basic_map.svg - geographic division of customers
 * Online-Retail.xlsx - Dataset
+* 058_NAS_CustomerSegmentation-FinalReport.pdf - The final report
+* Presentation.pptx - The Presentatuon
 
 To run the code - run the Customer_Segmentation.ipynb in the jupyter notebook and the explanantion of each part is mentioned in the the same file.
 
